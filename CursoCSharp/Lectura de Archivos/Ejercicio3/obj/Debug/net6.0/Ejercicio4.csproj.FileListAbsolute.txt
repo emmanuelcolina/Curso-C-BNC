@@ -1,0 +1,15 @@
+C:\Users\ecolina\source\repos\Ejercicio3\Ejercicio3\bin\Debug\net6.0\Ejercicio4.exe
+C:\Users\ecolina\source\repos\Ejercicio3\Ejercicio3\bin\Debug\net6.0\Ejercicio4.deps.json
+C:\Users\ecolina\source\repos\Ejercicio3\Ejercicio3\bin\Debug\net6.0\Ejercicio4.runtimeconfig.json
+C:\Users\ecolina\source\repos\Ejercicio3\Ejercicio3\bin\Debug\net6.0\Ejercicio4.dll
+C:\Users\ecolina\source\repos\Ejercicio3\Ejercicio3\bin\Debug\net6.0\Ejercicio4.pdb
+C:\Users\ecolina\source\repos\Ejercicio3\Ejercicio3\obj\Debug\net6.0\Ejercicio4.csproj.AssemblyReference.cache
+C:\Users\ecolina\source\repos\Ejercicio3\Ejercicio3\obj\Debug\net6.0\Ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecolina\source\repos\Ejercicio3\Ejercicio3\obj\Debug\net6.0\Ejercicio4.AssemblyInfoInputs.cache
+C:\Users\ecolina\source\repos\Ejercicio3\Ejercicio3\obj\Debug\net6.0\Ejercicio4.AssemblyInfo.cs
+C:\Users\ecolina\source\repos\Ejercicio3\Ejercicio3\obj\Debug\net6.0\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\ecolina\source\repos\Ejercicio3\Ejercicio3\obj\Debug\net6.0\Ejercicio4.dll
+C:\Users\ecolina\source\repos\Ejercicio3\Ejercicio3\obj\Debug\net6.0\refint\Ejercicio4.dll
+C:\Users\ecolina\source\repos\Ejercicio3\Ejercicio3\obj\Debug\net6.0\Ejercicio4.pdb
+C:\Users\ecolina\source\repos\Ejercicio3\Ejercicio3\obj\Debug\net6.0\Ejercicio4.genruntimeconfig.cache
+C:\Users\ecolina\source\repos\Ejercicio3\Ejercicio3\obj\Debug\net6.0\ref\Ejercicio4.dll

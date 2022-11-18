@@ -1,0 +1,6 @@
+C:\Ambiente BNC\ConsultaBoveda\Ejercicio 5\Entidades\bin\Debug\Entidades.dll
+C:\Ambiente BNC\ConsultaBoveda\Ejercicio 5\Entidades\bin\Debug\Entidades.pdb
+C:\Ambiente BNC\ConsultaBoveda\Ejercicio 5\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Ambiente BNC\ConsultaBoveda\Ejercicio 5\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Ambiente BNC\ConsultaBoveda\Ejercicio 5\Entidades\obj\Debug\Entidades.dll
+C:\Ambiente BNC\ConsultaBoveda\Ejercicio 5\Entidades\obj\Debug\Entidades.pdb

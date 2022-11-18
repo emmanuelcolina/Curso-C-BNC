@@ -1,0 +1,12 @@
+C:\Ambiente BNC\ConsultaBoveda\slnCursoNet\Entidades\bin\Debug\net6.0\Entidades.deps.json
+C:\Ambiente BNC\ConsultaBoveda\slnCursoNet\Entidades\bin\Debug\net6.0\Entidades.dll
+C:\Ambiente BNC\ConsultaBoveda\slnCursoNet\Entidades\bin\Debug\net6.0\Entidades.pdb
+C:\Ambiente BNC\ConsultaBoveda\slnCursoNet\Entidades\obj\Debug\net6.0\Entidades.csproj.AssemblyReference.cache
+C:\Ambiente BNC\ConsultaBoveda\slnCursoNet\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ambiente BNC\ConsultaBoveda\slnCursoNet\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+C:\Ambiente BNC\ConsultaBoveda\slnCursoNet\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+C:\Ambiente BNC\ConsultaBoveda\slnCursoNet\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Ambiente BNC\ConsultaBoveda\slnCursoNet\Entidades\obj\Debug\net6.0\Entidades.dll
+C:\Ambiente BNC\ConsultaBoveda\slnCursoNet\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+C:\Ambiente BNC\ConsultaBoveda\slnCursoNet\Entidades\obj\Debug\net6.0\Entidades.pdb
+C:\Ambiente BNC\ConsultaBoveda\slnCursoNet\Entidades\obj\Debug\net6.0\ref\Entidades.dll

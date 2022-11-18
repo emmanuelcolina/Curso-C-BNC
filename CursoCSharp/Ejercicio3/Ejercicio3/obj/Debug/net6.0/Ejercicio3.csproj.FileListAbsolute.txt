@@ -1,0 +1,15 @@
+C:\Ambiente BNC\ConsultaBoveda\Ejercicio3\Ejercicio3\obj\Debug\net6.0\Ejercicio3.csproj.AssemblyReference.cache
+C:\Ambiente BNC\ConsultaBoveda\Ejercicio3\Ejercicio3\obj\Debug\net6.0\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ambiente BNC\ConsultaBoveda\Ejercicio3\Ejercicio3\obj\Debug\net6.0\Ejercicio3.AssemblyInfoInputs.cache
+C:\Ambiente BNC\ConsultaBoveda\Ejercicio3\Ejercicio3\obj\Debug\net6.0\Ejercicio3.AssemblyInfo.cs
+C:\Ambiente BNC\ConsultaBoveda\Ejercicio3\Ejercicio3\obj\Debug\net6.0\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Ambiente BNC\ConsultaBoveda\Ejercicio3\Ejercicio3\bin\Debug\net6.0\Ejercicio3.exe
+C:\Ambiente BNC\ConsultaBoveda\Ejercicio3\Ejercicio3\bin\Debug\net6.0\Ejercicio3.deps.json
+C:\Ambiente BNC\ConsultaBoveda\Ejercicio3\Ejercicio3\bin\Debug\net6.0\Ejercicio3.runtimeconfig.json
+C:\Ambiente BNC\ConsultaBoveda\Ejercicio3\Ejercicio3\bin\Debug\net6.0\Ejercicio3.dll
+C:\Ambiente BNC\ConsultaBoveda\Ejercicio3\Ejercicio3\bin\Debug\net6.0\Ejercicio3.pdb
+C:\Ambiente BNC\ConsultaBoveda\Ejercicio3\Ejercicio3\obj\Debug\net6.0\Ejercicio3.dll
+C:\Ambiente BNC\ConsultaBoveda\Ejercicio3\Ejercicio3\obj\Debug\net6.0\refint\Ejercicio3.dll
+C:\Ambiente BNC\ConsultaBoveda\Ejercicio3\Ejercicio3\obj\Debug\net6.0\Ejercicio3.pdb
+C:\Ambiente BNC\ConsultaBoveda\Ejercicio3\Ejercicio3\obj\Debug\net6.0\Ejercicio3.genruntimeconfig.cache
+C:\Ambiente BNC\ConsultaBoveda\Ejercicio3\Ejercicio3\obj\Debug\net6.0\ref\Ejercicio3.dll

@@ -1,0 +1,18 @@
+C:\Users\ecolina\source\repos\ArchivoExcel\ArchivoExcel\bin\Debug\ArchivoExcel.exe.config
+C:\Users\ecolina\source\repos\ArchivoExcel\ArchivoExcel\bin\Debug\ArchivoExcel.exe
+C:\Users\ecolina\source\repos\ArchivoExcel\ArchivoExcel\bin\Debug\ArchivoExcel.pdb
+C:\Users\ecolina\source\repos\ArchivoExcel\ArchivoExcel\obj\Debug\ArchivoExcel.csproj.AssemblyReference.cache
+C:\Users\ecolina\source\repos\ArchivoExcel\ArchivoExcel\obj\Debug\ArchivoExcel.csproj.SuggestedBindingRedirects.cache
+C:\Users\ecolina\source\repos\ArchivoExcel\ArchivoExcel\obj\Debug\ArchivoExcel.csproj.ResolveComReference.cache
+C:\Users\ecolina\source\repos\ArchivoExcel\ArchivoExcel\obj\Debug\ArchivoExcel.csproj.CoreCompileInputs.cache
+C:\Users\ecolina\source\repos\ArchivoExcel\ArchivoExcel\obj\Debug\ArchivoExcel.exe
+C:\Users\ecolina\source\repos\ArchivoExcel\ArchivoExcel\obj\Debug\ArchivoExcel.pdb
+C:\Users\ecolina\Desktop\Curso C#\Marshall Excel\ArchivoExcel\bin\Debug\ArchivoExcel.exe.config
+C:\Users\ecolina\Desktop\Curso C#\Marshall Excel\ArchivoExcel\bin\Debug\ArchivoExcel.exe
+C:\Users\ecolina\Desktop\Curso C#\Marshall Excel\ArchivoExcel\bin\Debug\ArchivoExcel.pdb
+C:\Users\ecolina\Desktop\Curso C#\Marshall Excel\ArchivoExcel\obj\Debug\ArchivoExcel.csproj.AssemblyReference.cache
+C:\Users\ecolina\Desktop\Curso C#\Marshall Excel\ArchivoExcel\obj\Debug\ArchivoExcel.csproj.SuggestedBindingRedirects.cache
+C:\Users\ecolina\Desktop\Curso C#\Marshall Excel\ArchivoExcel\obj\Debug\ArchivoExcel.csproj.ResolveComReference.cache
+C:\Users\ecolina\Desktop\Curso C#\Marshall Excel\ArchivoExcel\obj\Debug\ArchivoExcel.csproj.CoreCompileInputs.cache
+C:\Users\ecolina\Desktop\Curso C#\Marshall Excel\ArchivoExcel\obj\Debug\ArchivoExcel.exe
+C:\Users\ecolina\Desktop\Curso C#\Marshall Excel\ArchivoExcel\obj\Debug\ArchivoExcel.pdb
